@@ -1,0 +1,25 @@
+{
+  "name": "GCP Cost Analyzer",
+  "description": "Analyze Google Cloud billing with verified data and actionable recommendations. Prevents costly assumptions by querying actual metrics, calculating precise costs, and identifying optimization patterns.",
+  "version": "1.0.0",
+  "author": "Based on real-world GCP cost optimization experience",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "gcp",
+    "google-cloud",
+    "billing",
+    "cost-optimization",
+    "firestore",
+    "cloud-functions",
+    "firebase"
+  ],
+  "requirements": {
+    "gcloud": "Latest version of gcloud CLI",
+    "python": "Python 3.8+",
+    "jq": "JSON processor (optional, for enhanced output)"
+  }
+}
