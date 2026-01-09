@@ -41,6 +41,28 @@ Based on real debugging session that reduced costs 64% ($382 → $140/month).
 
 Wait ~5 minutes, get comprehensive report.
 
+### HTML Report Generation
+
+Create professional, presentation-ready HTML reports:
+
+```bash
+# After running analysis, create HTML report
+# See HTML_REPORT_GUIDE.md for detailed instructions
+
+# Report includes:
+# - Rete Consulting branding
+# - Print-ready PDF export
+# - Client-ready presentation format
+# - Slide-based layout with visual hierarchy
+```
+
+**Assets included:**
+- Rete logo (icon + text)
+- Professional CSS styling
+- Print-optimized layout
+
+See `HTML_REPORT_GUIDE.md` for step-by-step HTML report creation.
+
 ## What Makes This Different
 
 ### Other tools:
